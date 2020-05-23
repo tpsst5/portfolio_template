@@ -193,6 +193,9 @@ img {
   color: #fff;
   text-transform: uppercase; }
 
+.txt-type > .txt {
+  border-right: 0.2rem solid #777; }
+
 #main-nav {
   display: flex;
   justify-content: space-between;
